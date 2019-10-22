@@ -38,7 +38,7 @@ numpy==1.13.1
 oauth2client==4.1.2
 olefile==0.44
 pigar==0.7.1
-Pillow==4.1.1
+Pillow==6.2.0
 pluggy==0.6.0
 pony==0.7.3
 praw==5.4.0
